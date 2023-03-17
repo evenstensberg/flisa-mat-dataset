@@ -1,0 +1,270 @@
+[
+  {
+    "price": "155",
+    "title": "Ost & Skinkesalat - Isbergsalat, ost, skinke, agurk, mais, ananas, tomat, dressing"
+  },
+  {
+    "price": "155",
+    "title": "Kyllingsalat - Isbergsalat, kylling, agurk, tomat, mais, ananas, dressing"
+  },
+  {
+    "price": "155",
+    "title": "Gresk salat - Isbergsalat, fetaost, agurk, tomat, mais, oliven, løk, dressing"
+  },
+  {
+    "price": "105",
+    "title": "Hamburger 160gr i brød"
+  },
+  {
+    "price": "125",
+    "title": "Hamburgertallerken 160gr med pommes frites"
+  },
+  {
+    "price": "160",
+    "title": "Dobbeltburger 2x160gr i brød"
+  },
+  {
+    "price": "180",
+    "title": "Dobbeltburger tallerken, pommes frites"
+  },
+  {
+    "price": "125",
+    "title": "BBQ burger 160gr med bbq-saus, løkringer, ost, salat og hvitløksdressing"
+  },
+  {
+    "price": "145",
+    "title": "BBQ burger tallerken 160gr med pommes frites, bbq-saus, løkringer, ost, salat og hvitløksdressing"
+  },
+  {
+    "price": "115",
+    "title": "Kebab i pita - kebabkjøtt, isbergsalat, agurk, mais, saus og pitabrød"
+  },
+  {
+    "price": "160",
+    "title": "Kebabrull - kebabkjøtt, isbergsalat, agurk, mais, lefse"
+  },
+  {
+    "price": "160",
+    "title": "Kebabtallerken - kebabkjøtt, salat, pommes frites, saus"
+  },
+  {
+    "price": "150",
+    "title": "Bolognese - Spaghetti med kjøttsaus"
+  },
+  {
+    "price": "165",
+    "title": "Carbonara - Spaghetti med bacon, løk og eggeplomme"
+  },
+  {
+    "price": "175",
+    "title": "Husets pasta - Penne, biffkjøtt, paprika, løk og fløtesaus"
+  },
+  {
+    "price": "175",
+    "title": "Con carne - Penne, biffkjøtt, paprika, løk og fløtesaus"
+  },
+  {
+    "price": "175",
+    "title": "Pasta Indiana - Penne, kylling, paprika, løk og karrisaus"
+  },
+  {
+    "price": "190",
+    "title": "Fish & Chips - panert torskefilet, sylteagurk, remulade og pommes frites"
+  },
+  {
+    "price": "190",
+    "title": "Rødspette - panert rødspette, salat, remulade og pommes frites"
+  },
+  {
+    "price": "165",
+    "title": "Løvbifftallerken - salat, pommes frites og bernaise"
+  },
+  {
+    "price": "190",
+    "title": "Biffsnadder - indrefilet, løk, champignons, paprika, pommes frites og bearnaise"
+  },
+  {
+    "price": "190",
+    "title": "Kyllingsnadder - kyllingfilet, løk, paprika, champignons, pommes frites og bearnaise"
+  },
+  {
+    "price": "220",
+    "title": "Svinefilet - 2 medallioner svin indrefilet, grillet ananas og bacon"
+  },
+  {
+    "price": "200",
+    "title": "Kylling Philadephia - kyllingfilet, bacon, salat, Philadephiasaus og pommes frites"
+  },
+  {
+    "price": "280",
+    "title": "Biff indrefilet - salat, pommes frites og valgfri saus"
+  },
+  {
+    "price": "280",
+    "title": "Filetto Monza - okse indrefilet, pommes frites, sterk mexicansaus og salat"
+  },
+  {
+    "price": "280",
+    "title": "Meksikansk biff - okse indrefilet, pommes frites, sterk mexicansk saus og salat"
+  },
+  {
+    "price": "220",
+    "title": "Svinefilet - 2 medallioner svin indrefilet, grillet ananas og bacon"
+  },
+  {
+    "price": "290",
+    "title": "Black & White - okse indrefilet, svin indrefilet, salat, bearnaise, peppersaus og pommes frites"
+  },
+  {
+    "price": "290",
+    "title": "Biff A La Rosa - okse indrefilet, salat, pommes frites, rødvinssaus med champignons og bacon"
+  },
+  {
+    "price": "90",
+    "title": "Pizza - Margerita - tomatsaus og ost"
+  },
+  {
+    "price": "100",
+    "title": "Pizza - Vesuvio - skinke"
+  },
+  {
+    "price": "100",
+    "title": "Pizza - Capricossa - skinke og champignons"
+  },
+  {
+    "price": "100",
+    "title": "Pizza - Hawaii - skinke og ananas"
+  },
+  {
+    "price": "100",
+    "title": "Pizza - Ado - pepperoni, ananas og løk"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Mama Mia - skinke, kjøttdeig og løk"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Aylish - pepperoni, kjøttdeig og løk"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Santana - skinke, kjøttdeig, løk og paprika"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Alamos - kylling, skinke og ananas"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Vegetar - champignon, paprika, løk, tomat og oliven"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Bello - pepperoni, salami, bacon og sterk kjøttdeig"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Montana - skinke, pepperoni, salami og bacon"
+  },
+  {
+    "price": "135",
+    "title": "Pompeii - skinke, champignon, bacon og løk"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Herkules - skinke, pepperoni, bacon, kjøttdeig og løk"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Arena - biff, løk og bearnaise"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Bambino - biff, pepperoni, champignon, løk og bearnaise"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Flisa pizza'n - biff, pepperoni, kjøttdeig, skinke og mais"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Matador - biff, pepperoni og skinke"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Tor - biff, bacon, skinke og kylling"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Mexicali - biff, skinke, bacon, løk og paprika"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Tinini - biff, skinke og ananas"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Odin - biff, skinke, bacon, pepperoni og løk"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Santos - biff, pepperoni, skinke, løk og mais"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Fleicher'n - biff, pepperoni og løk"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Ciao Caio - biff, champignon, løk, paprika, tomat og bearnaise"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Våler - skinke, pepperoni, løk og mais"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Åsnes spesial - skinke, bacon og champignon"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Granlund - kylling, ananas og karri"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Kjellmyra - biff, bacon og kebab"
+  },
+  {
+    "price": "100",
+    "title": "Pizza - Calzone (innbakt) med skinke"
+  },
+  {
+    "price": "115",
+    "title": "Pizza - Calzone spesial (innbakt) med skinke, bacon og løk"
+  },
+  {
+    "price": "135",
+    "title": "Kebabpizza - kebabkjøtt, isbergsalat, agurk, tomat, løk og kebabsaus"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Mexicana - tacokjøtt, løk, hvitløk, jalapenos, tacokrydder og tacosaus"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Acapulco - biff, champignon, løk, hvitløk, tacokrydder, tacosaus og jalapenos"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Amigo - biff, kjøttdeig, løk, paprika, jalapenos, tacokrydder og tacosaus"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Kaktus - tacokjøtt, paprika, nachos, jalapenos, tacokrydder og tacosaus"
+  },
+  {
+    "price": "135",
+    "title": "Pizza - Velg selv - velg inntil 5 ingredienser"
+  }
+]
