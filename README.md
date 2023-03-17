@@ -4,4 +4,3 @@
 
 - Kina
 - Sushi
-- Dogans
