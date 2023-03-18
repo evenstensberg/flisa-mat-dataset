@@ -1,134 +1,168 @@
-[
-  {
-    "title": "Svinefilet m/bambusskudd, champingon og purre",
-    "price": "125"
+{
+  "menu": [
+    {
+      "title": "Svinefilet m/bambusskudd, champingon og purre",
+      "price": "125"
+    },
+    {
+      "title": "Frityr innbakt svinefilet og sur-søt saus",
+      "price": "125"
+    },
+    {
+      "title": "Svinefilet m/chop suey i hvitløk og chasewnøtter",
+      "price": "125"
+    },
+    {
+      "title": "Kylling chop suey m/hvitløk i soyasaus",
+      "price": "125"
+    },
+    {
+      "title": "Kylling chop suey i karrisaus (sterk)",
+      "price": "125"
+    },
+    {
+      "title": "Kylling chop suey i sataysaus (sterk)",
+      "price": "128"
+    },
+    {
+      "title": "Kinesisk pepper kylling",
+      "price": "135"
+    },
+    {
+      "title": "Frityr innbakt kyllingfilet og sur-søt saus",
+      "price": "138"
+    },
+    {
+      "title": "Frityr innbakt andebryst og sur-søt saus",
+      "price": "159"
+    },
+    {
+      "title": "Peking and chop suey i pepper saus (sterk)",
+      "price": "168"
+    },
+    {
+      "title": "Biff chop suey m/hvitløk i soyasaus",
+      "price": "128"
+    },
+    {
+      "title": "Biff m/løk og purre i østerssaus",
+      "price": "128"
+    },
+    {
+      "title": "Biff chop suey i karrisaus (sterk)",
+      "price": "128"
+    },
+    {
+      "title": "Kylling chop suey i sataysaus (sterk)",
+      "price": "135"
+    },
+    {
+      "title": "Biff m/hvitløk i Szechuan (sterk)",
+      "price": "138"
+    },
+    {
+      "title": "Kinesisk pepper biff",
+      "price": "138"
+    },
+    {
+      "title": "Kongereker chop suey m/hvitløk i soyasaus",
+      "price": "148"
+    },
+    {
+      "title": "Kongereker chop suey i satayasaus (sterk)",
+      "price": "152"
+    },
+    {
+      "title": "Frityr innbakt kongereker og sur-søt saus",
+      "price": "158"
+    },
+    {
+      "title": "Frityr innbakt torskefilet og sur-søt saus",
+      "price": "152"
+    },
+    {
+      "title": "Frityr innbakt kongereker, akkar og sur-søt saus",
+      "price": "169"
+    },
+    {
+      "title": "Stekt ris m/kylling, egg, reker, skinke og grønnsaker",
+      "price": "119"
+    },
+    {
+      "title": "Stekt ris m/biff, egg og grønnsaker",
+      "price": "119"
+    },
+    {
+      "title": "Lammefilet m/løk, purre, hvitløk i østerraus",
+      "price": "169"
+    },
+    {
+      "title": "Schaslik (lam-og oksefilet) på spyd m/ris",
+      "price": "185"
+    },
+    {
+      "title": "Biffstrimler i sur-søt saus m/chili (sterk)",
+      "price": "145"
+    },
+    {
+      "title": "Stekte nudler m/kylling, reker, skinke og grønnsaker",
+      "price": "128"
+    },
+    {
+      "title": "Kinesisk chop suey m/kylling, biff, reker, svin og skinke",
+      "price": "128"
+    },
+    {
+      "title": "Kineisk chop suey (vegetar)",
+      "price": "108"
+    },
+    {
+      "title": "Indrefilet av storfe m/pommes frites, bearnaisesaus, salat og løk",
+      "price": "189"
+    },
+    {
+      "title": "Pepperstek m/pommes frites, peppersaus, salat og sopp",
+      "price": "189"
+    },
+    {
+      "title": "Osteschnitzel m/pommes frites, bearnaisesaus og salat",
+      "price": "128"
+    },
+    {
+      "title": "Stekt 1/2 kylling m/pommes frites og salat",
+      "price": "169"
+    }
+  ],
+  "opening": {
+    "Mon": {
+      "start": "14:00",
+      "end": "21:00"
+    },
+    "Tue": null,
+    "Wed": {
+      "start": "14:00",
+      "end": "21:00"
+    },
+    "Thur": {
+      "start": "14:00",
+      "end": "21:00"
+    },
+    "Fri": {
+      "start": "14:00",
+      "end": "21:00"
+    },
+    "Sat": {
+      "start": "14:00",
+      "end": "21:00"
+    },
+    "Sun": {
+      "start": "14:00",
+      "end": "21:00"
+    }
   },
-  {
-    "title": "Frityr innbakt svinefilet og sur-søt saus",
-    "price": "125"
-  },
-  {
-    "title": "Svinefilet m/chop suey i hvitløk og chasewnøtter",
-    "price": "125"
-  },
-  {
-    "title": "Kylling chop suey m/hvitløk i soyasaus",
-    "price": "125"
-  },
-  {
-    "title": "Kylling chop suey i karrisaus (sterk)",
-    "price": "125"
-  },
-  {
-    "title": "Kylling chop suey i sataysaus (sterk)",
-    "price": "128"
-  },
-  {
-    "title": "Kinesisk pepper kylling",
-    "price": "135"
-  },
-  {
-    "title": "Frityr innbakt kyllingfilet og sur-søt saus",
-    "price": "138"
-  },
-  {
-    "title": "Frityr innbakt andebryst og sur-søt saus",
-    "price": "159"
-  },
-  {
-    "title": "Peking and chop suey i pepper saus (sterk)",
-    "price": "168"
-  },
-  {
-    "title": "Biff chop suey m/hvitløk i soyasaus",
-    "price": "128"
-  },
-  {
-    "title": "Biff m/løk og purre i østerssaus",
-    "price": "128"
-  },
-  {
-    "title": "Biff chop suey i karrisaus (sterk)",
-    "price": "128"
-  },
-  {
-    "title": "Kylling chop suey i sataysaus (sterk)",
-    "price": "135"
-  },
-  {
-    "title": "Biff m/hvitløk i Szechuan (sterk)",
-    "price": "138"
-  },
-  {
-    "title": "Kinesisk pepper biff",
-    "price": "138"
-  },
-  {
-    "title": "Kongereker chop suey m/hvitløk i soyasaus",
-    "price": "148"
-  },
-  {
-    "title": "Kongereker chop suey i satayasaus (sterk)",
-    "price": "152"
-  },
-  {
-    "title": "Frityr innbakt kongereker og sur-søt saus",
-    "price": "158"
-  },
-  {
-    "title": "Frityr innbakt torskefilet og sur-søt saus",
-    "price": "152"
-  },
-  {
-    "title": "Frityr innbakt kongereker, akkar og sur-søt saus",
-    "price": "169"
-  },
-  {
-    "title": "Stekt ris m/kylling, egg, reker, skinke og grønnsaker",
-    "price": "119"
-  },
-  {
-    "title": "Stekt ris m/biff, egg og grønnsaker",
-    "price": "119"
-  },
-  {
-    "title": "Lammefilet m/løk, purre, hvitløk i østerraus",
-    "price": "169"
-  },
-  {
-    "title": "Schaslik (lam-og oksefilet) på spyd m/ris",
-    "price": "185"
-  },
-  {
-    "title": "Biffstrimler i sur-søt saus m/chili (sterk)",
-    "price": "145"
-  },
-  {
-    "title": "Stekte nudler m/kylling, reker, skinke og grønnsaker",
-    "price": "128"
-  },
-  {
-    "title": "Kinesisk chop suey m/kylling, biff, reker, svin og skinke",
-    "price": "128"
-  },
-  {
-    "title": "Kineisk chop suey (vegetar)",
-    "price": "108"
-  },
-  {
-    "title": "Indrefilet av storfe m/pommes frites, bearnaisesaus, salat og løk",
-    "price": "189"
-  },
-  {
-    "title": "Pepperstek m/pommes frites, peppersaus, salat og sopp",
-    "price": "189"
-  },
-  {
-    "title": "Osteschnitzel m/pommes frites, bearnaisesaus og salat",
-    "price": "128"
-  },
-  {
-    "title": "Stekt 1/2 kylling m/pommes frites og salat",
-    "price": "169"
+  "meta": {
+    "name": "Bejing Garden",
+    "categories": ["resturant", "takeaway"],
+    "phone": "62953800"
   }
-]
+}
