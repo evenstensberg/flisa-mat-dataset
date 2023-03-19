@@ -10,6 +10,7 @@
 - Bejing Garden
 - Folkets Steakhouse
 - Solør Sushi
+- Café Finnskogen
 
 ## Generere all data til en fil
 
