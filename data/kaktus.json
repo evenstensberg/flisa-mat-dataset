@@ -302,6 +302,7 @@
   "meta": {
     "name": "Kaktus",
     "categories": ["resturant", "takeaway"],
-    "phone": "62952389"
+    "phone": "62952389",
+    "for_children": true
   }
 }

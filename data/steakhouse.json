@@ -224,6 +224,7 @@
   "meta": {
     "name": "Folkets steakhouse",
     "categories": ["resturant", "takeaway"],
-    "phone": "62950062"
+    "phone": "62950062",
+    "for_children": true
   }
 }

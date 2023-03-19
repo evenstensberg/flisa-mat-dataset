@@ -163,6 +163,7 @@
   "meta": {
     "name": "Bejing Garden",
     "categories": ["resturant", "takeaway"],
-    "phone": "62953800"
+    "phone": "62953800",
+    "for_children": true
   }
 }

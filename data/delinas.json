@@ -30,6 +30,7 @@
   "meta": {
     "name": "Delinas Café",
     "categories": ["resturant", "takeaway"],
-    "phone": "62950022"
+    "phone": "62950022",
+    "for_children": true
   }
 }
