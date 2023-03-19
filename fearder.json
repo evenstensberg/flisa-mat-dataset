@@ -1,1 +1,89 @@
-[]
+{
+  "menu": [
+    {
+      "title": "Jordskokksuppe",
+      "price": "115"
+    },
+    {
+      "title": "Varmgravet røyefilet",
+      "price": "125"
+    },
+    {
+      "title": "Dagens husmann onsdag - fredag",
+      "price": "189"
+    },
+    {
+      "title": "Ceasarsalat",
+      "price": "185"
+    },
+    {
+      "title": "Pannestekt livéchekylling",
+      "price": "225"
+    },
+    {
+      "title": "Lammeskank",
+      "price": "265"
+    },
+    {
+      "title": "Pannestekt skrei",
+      "price": "275"
+    },
+    {
+      "title": "Indrefilet av okse 200g",
+      "price": "295"
+    },
+    {
+      "title": "Hamburger - Færderburger med Lauk",
+      "price": "179"
+    },
+    {
+      "title": "Hamburger - Færderburger med røkt aioli",
+      "price": "179"
+    },
+    {
+      "title": "Hamburger - Færderburger med bacondressing",
+      "price": "179"
+    },
+    {
+      "title": "Hamburger - Færderburger med gorgonzoladressing",
+      "price": "179"
+    },
+    {
+      "title": "Pasta - Ravioli",
+      "price": "185"
+    },
+    {
+      "title": "Pasta - Vegetar lasagne",
+      "price": "195"
+    }
+  ],
+  "opening": {
+    "Mon": null,
+    "Tue": null,
+    "Wed": {
+      "start": "15:00",
+      "end": "21:00"
+    },
+    "Thur": {
+      "start": "15:00",
+      "end": "21:00"
+    },
+    "Fri": {
+      "start": "15:00",
+      "end": "23:00"
+    },
+    "Sat": {
+      "start": "15:00",
+      "end": "23:00"
+    },
+    "Sun": {
+      "start": "15:00",
+      "end": "18:00"
+    }
+  },
+  "meta": {
+    "name": "Færder Brasserie & Bar",
+    "categories": ["resturant", "takeaway", "bar"],
+    "phone": "95802270"
+  }
+}

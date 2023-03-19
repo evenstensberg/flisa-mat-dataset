@@ -1,0 +1,35 @@
+{
+  "menu": [],
+  "opening": {
+    "Mon": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "Tue": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "Wed": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "Thur": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "Fri": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "Sat": {
+      "start": "09:00",
+      "end": "16:00"
+    },
+    "Sun": null
+  },
+  "meta": {
+    "name": "Delinas Café",
+    "categories": ["resturant", "takeaway"],
+    "phone": "62950022"
+  }
+}

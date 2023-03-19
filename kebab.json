@@ -1,0 +1,223 @@
+{
+  "menu": [
+    {
+      "title": "Hamburger Meny 100 gr",
+      "price": "145"
+    },
+    {
+      "title": "Hamburger Meny 160 gr",
+      "price": "155"
+    },
+    {
+      "title": "Hamburger Meny 190 gr",
+      "price": "170"
+    },
+    {
+      "title": "Hamburger Meny 250 gr",
+      "price": "190"
+    },
+    {
+      "title": "Hamburger Meny 160 gr",
+      "price": "155"
+    },
+    {
+      "title": "Hamburger tallerken 100 gr",
+      "price": "115"
+    },
+    {
+      "title": "Hamburger tallerken 160 gr",
+      "price": "125"
+    },
+    {
+      "title": "Hamburger tallerken 190 gr",
+      "price": "140"
+    },
+    {
+      "title": "Hamburger tallerken 250 gr",
+      "price": "160"
+    },
+
+    {
+      "title": "Cheeseburger Meny 100 gr",
+      "price": "155"
+    },
+    {
+      "title": "Cheeseburger Meny 160 gr",
+      "price": "165"
+    },
+    {
+      "title": "Cheeseburger Meny 190 gr",
+      "price": "180"
+    },
+    {
+      "title": "Cheeseburger Meny 250 gr",
+      "price": "200"
+    },
+
+    {
+      "title": "Cheeseburger tallerken 100 gr",
+      "price": "155"
+    },
+    {
+      "title": "Cheeseburger tallerken 160 gr",
+      "price": "165"
+    },
+    {
+      "title": "Cheeseburger tallerken 190 gr",
+      "price": "180"
+    },
+    {
+      "title": "Cheeseburger tallerken 250 gr",
+      "price": "200"
+    },
+
+    {
+      "title": "Kebabrull",
+      "price": "150"
+    },
+    {
+      "title": "Biff burger",
+      "price": "200"
+    },
+
+    {
+      "title": "Kebab liten i pita",
+      "price": "100"
+    },
+    {
+      "title": "Kebab medium i pita",
+      "price": "115"
+    },
+    {
+      "title": "Kebab stor i pita",
+      "price": "125"
+    },
+
+    {
+      "title": "Kebab liten tallerken",
+      "price": "135"
+    },
+    {
+      "title": "Kebab medium tallerken",
+      "price": "150"
+    },
+    {
+      "title": "Kebab stor tallerken",
+      "price": "160"
+    },
+
+    {
+      "title": "Kyllingkebab liten i pita",
+      "price": "120"
+    },
+    {
+      "title": "Kyllingkebab medium i pita",
+      "price": "135"
+    },
+    {
+      "title": "Kyllingkebab stor i pita",
+      "price": "150"
+    },
+
+    {
+      "title": "Kyllingkebab liten tallerken",
+      "price": "150"
+    },
+    {
+      "title": "Kyllingkebab medium tallerken",
+      "price": "165"
+    },
+    {
+      "title": "Kyllingkebab stor tallerken",
+      "price": "180"
+    },
+
+    {
+      "title": "Kylling schwarma",
+      "price": "200"
+    },
+
+    {
+      "title": "Løvstek tallerken",
+      "price": "170"
+    },
+
+    {
+      "title": "Løvstek tallerken meny",
+      "price": "200"
+    },
+    {
+      "title": "Biffsnadder tallerken m/bearnaise",
+      "price": "170"
+    },
+
+    {
+      "title": "Biffsnadder tallerken meny",
+      "price": "200"
+    },
+
+    {
+      "title": "Biffsnadder i pita",
+      "price": "150"
+    },
+    {
+      "title": "Pommes frits liten",
+      "price": "50"
+    },
+    {
+      "title": "Pommes frits stor",
+      "price": "75"
+    },
+    {
+      "title": "Nuggets 8 biter",
+      "price": "120"
+    },
+    {
+      "title": "Nuggets 12 biter",
+      "price": "150"
+    },
+    {
+      "title": "Nuggets meny i pita",
+      "price": "150"
+    },
+    {
+      "title": "Nuggets meny tallerken",
+      "price": "180"
+    }
+  ],
+  "opening": {
+    "Mon": {
+      "start": "10:00",
+      "end": "23:00"
+    },
+    "Tue": {
+      "start": "10:00",
+      "end": "23:00"
+    },
+    "Wed": {
+      "start": "10:00",
+      "end": "23:00"
+    },
+    "Thur": {
+      "start": "10:00",
+      "end": "23:00"
+    },
+    "Fri": {
+      "start": "10:00",
+      "end": "02:00"
+    },
+    "Sat": {
+      "start": "10:00",
+      "end": "03:00"
+    },
+    "Sun": {
+      "start": "10:00",
+      "end": "23:00"
+    }
+  },
+  "meta": {
+    "name": "Flisa kebab",
+    "categories": ["resturant", "takeaway"],
+    "phone": "46716864"
+  }
+}
