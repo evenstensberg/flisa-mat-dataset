@@ -1,0 +1,27 @@
+{
+  "menu": [],
+  "opening": {
+    "Mon": null,
+    "Tue": null,
+    "Wed": null,
+    "Thur": null,
+    "Fri": {
+      "start": "12:00",
+      "end": "18:00"
+    },
+    "Sat": {
+      "start": "24:00",
+      "end": "18:00"
+    },
+    "Sun": {
+      "start": "12:00",
+      "end": "18:00"
+    }
+  },
+  "meta": {
+    "name": "Café Finnskogen",
+    "categories": ["resturant"],
+    "phone": "95850122",
+    "for_children": true
+  }
+}

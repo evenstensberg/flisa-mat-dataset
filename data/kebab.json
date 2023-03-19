@@ -218,6 +218,7 @@
   "meta": {
     "name": "Flisa kebab",
     "categories": ["resturant", "takeaway"],
-    "phone": "46716864"
+    "phone": "46716864",
+    "for_children": true
   }
 }

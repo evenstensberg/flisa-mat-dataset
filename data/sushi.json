@@ -207,6 +207,7 @@
   "meta": {
     "name": "Solør Sushi & Wok",
     "categories": ["resturant", "takeaway"],
-    "phone": "48649145"
+    "phone": "48649145",
+    "for_children": true
   }
 }
