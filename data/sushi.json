@@ -1,4 +1,24 @@
 {
+  "starters": [
+    {
+      "title": "2 stykk vårruller",
+      "price": "89"
+    },
+    {
+      "title": "Scampi med salat",
+      "price": "69"
+    }
+  ],
+  "desserts": [
+    {
+      "title": "Sorbet mix",
+      "price": "79"
+    },
+    {
+      "title": "Innbakt banan",
+      "price": "89"
+    }
+  ],
   "menu": [
     {
       "title": "1. Liten 8 biter",

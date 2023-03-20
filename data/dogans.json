@@ -1,4 +1,13 @@
 {
+  "starters": [
+    { "title": "Sportsbarn snack basket", "price": "200" },
+    { "title": "Sportsbarn mini snack basket", "price": "120" },
+    { "title": "Crispy chicken basket", "price": "110" },
+    { "title": "Søtpotet-fries basket", "price": "75" },
+    { "title": "Pommes bistro basket", "price": "60" },
+    { "title": "Nachos", "price": "60" }
+  ],
+  "desserts": [],
   "menu": [
     { "title": "Pasta Arrabita", "price": "150" },
     { "title": "Trøffelpasta", "price": "180" },
@@ -28,13 +37,7 @@
     { "title": "Chicken quesadilla", "price": "160" },
     { "title": "Pizza Margherita", "price": "100" },
     { "title": "Pizza Vesuvio", "price": "110" },
-    { "title": "Pizza Pepperoni", "price": "110" },
-    { "title": "Sportsbarn snack basket", "price": "200" },
-    { "title": "Sportsbarn mini snack basket", "price": "120" },
-    { "title": "Crispy chicken basket", "price": "110" },
-    { "title": "Søtpotet-fries basket", "price": "75" },
-    { "title": "Pommes bistro basket", "price": "60" },
-    { "title": "Nachos", "price": "60" }
+    { "title": "Pizza Pepperoni", "price": "110" }
   ],
   "opening": {
     "Mon": null,

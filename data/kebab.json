@@ -1,4 +1,23 @@
 {
+  "starters": [
+    {
+      "title": "Pommes frits liten",
+      "price": "50"
+    },
+    {
+      "title": "Pommes frits stor",
+      "price": "75"
+    },
+    {
+      "title": "Nuggets 8 biter",
+      "price": "120"
+    },
+    {
+      "title": "Nuggets 12 biter",
+      "price": "150"
+    }
+  ],
+  "desserts": [],
   "menu": [
     {
       "title": "Hamburger Meny 100 gr",
@@ -158,22 +177,6 @@
 
     {
       "title": "Biffsnadder i pita",
-      "price": "150"
-    },
-    {
-      "title": "Pommes frits liten",
-      "price": "50"
-    },
-    {
-      "title": "Pommes frits stor",
-      "price": "75"
-    },
-    {
-      "title": "Nuggets 8 biter",
-      "price": "120"
-    },
-    {
-      "title": "Nuggets 12 biter",
       "price": "150"
     },
     {

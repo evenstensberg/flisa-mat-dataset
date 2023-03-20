@@ -1,5 +1,5 @@
 {
-  "menu": [
+  "starters": [
     {
       "title": "Jordskokksuppe",
       "price": "115"
@@ -7,7 +7,27 @@
     {
       "title": "Varmgravet røyefilet",
       "price": "125"
+    }
+  ],
+  "desserts": [
+    {
+      "title": "Appelsin- og sjokoladefondant",
+      "price": "110"
     },
+    {
+      "title": "Creme brulee",
+      "price": "110"
+    },
+    {
+      "title": "Sjokolade kladdkaka",
+      "price": "89"
+    },
+    {
+      "title": "Sorbet is",
+      "price": "89"
+    }
+  ],
+  "menu": [
     {
       "title": "Dagens husmann onsdag - fredag",
       "price": "189"

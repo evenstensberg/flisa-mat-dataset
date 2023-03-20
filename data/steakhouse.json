@@ -1,4 +1,56 @@
 {
+  "starters": [
+    {
+      "title": "Innbakte kjempereker tempura",
+      "price": "100"
+    },
+    {
+      "title": "Snack basket, fin å dele, nok til 2",
+      "price": "195"
+    },
+    {
+      "title": "Nacho snack",
+      "price": "100"
+    }
+  ],
+  "desserts": [
+    {
+      "title": "Creme brulee",
+      "price": "105"
+    },
+    {
+      "title": "Oreo cheesecake",
+      "price": "105"
+    },
+    {
+      "title": "Panna cotta",
+      "price": "105"
+    },
+    {
+      "title": "Marinerte bjørnebær",
+      "price": "105"
+    },
+    {
+      "title": "Hjemmelaget peanutcake",
+      "price": "105"
+    },
+    {
+      "title": "Iskrem",
+      "price": "95"
+    },
+    {
+      "title": "Banansplitt",
+      "price": "95"
+    },
+    {
+      "title": "Sjokoladefondant",
+      "price": "110"
+    },
+    {
+      "title": "Tinas Pavlova",
+      "price": "105"
+    }
+  ],
   "menu": [
     {
       "title": "Bakt potet m/ost, skinke, mais, dressing, kryddersmør",

@@ -1,4 +1,19 @@
 {
+  "starters": [
+    {
+      "title": "Kinesisk vårrull",
+      "price": "65"
+    },
+    {
+      "title": "Frityr innbakt kongereker",
+      "price": "95"
+    },
+    {
+      "title": "Pekingsuppe",
+      "price": "79"
+    }
+  ],
+  "desserts": [],
   "menu": [
     {
       "title": "Svinefilet m/bambusskudd, champingon og purre",
@@ -131,6 +146,38 @@
     {
       "title": "Stekt 1/2 kylling m/pommes frites og salat",
       "price": "169"
+    },
+    {
+      "title": "Biff chop suey m/hvitløk, ingefær og chilli i soyasaus (medium sterk)",
+      "price": "195"
+    },
+    {
+      "title": "Biffstrimler m/brokkoli og løk i østersaus",
+      "price": "195"
+    },
+    {
+      "title": "Stekte nudler m/kongereker og grønnsaker",
+      "price": "215"
+    },
+    {
+      "title": "Fritert peking and m/grønnsaker og hvitløk i østersaus",
+      "price": "229"
+    },
+    {
+      "title": "Kylling chop suey m/chasewnøtter i hviløksaus",
+      "price": "195"
+    },
+    {
+      "title": "Kongereker chop suey i hvitløksaus og chasewnøtter",
+      "price": "215"
+    },
+    {
+      "title": "Innbakte kongereker, svine- og kyllingfilet med sur-søt saus",
+      "price": "229"
+    },
+    {
+      "title": "Blandet kjøtt (biff, kylling, svin) m/grønnsakswok i Guilin-soyasaus (sterk)",
+      "price": "209"
     }
   ],
   "opening": {
