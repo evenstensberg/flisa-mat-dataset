@@ -277,6 +277,7 @@
     "name": "Folkets steakhouse",
     "categories": ["resturant", "takeaway"],
     "phone": "62950062",
-    "for_children": true
+    "for_children": true,
+    "site": "https://folketssteakhouse.no"
   }
 }

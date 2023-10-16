@@ -305,6 +305,7 @@
     "name": "Kaktus",
     "categories": ["resturant", "takeaway"],
     "phone": "62952389",
-    "for_children": true
+    "for_children": true,
+    "site": "https://kaktus.pizza"
   }
 }
