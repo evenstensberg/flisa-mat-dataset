@@ -222,6 +222,7 @@
     "name": "Flisa kebab",
     "categories": ["resturant", "takeaway"],
     "phone": "46716864",
-    "for_children": true
+    "for_children": true,
+    "id": "flisakebab"
   }
 }

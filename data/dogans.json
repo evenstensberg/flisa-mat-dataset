@@ -69,6 +69,7 @@
   "meta": {
     "name": "Dogans Sportsbar",
     "categories": ["resturant", "takeaway", "bar"],
-    "phone": "62951984"
+    "phone": "62951984",
+    "id": "sportsbar"
   }
 }

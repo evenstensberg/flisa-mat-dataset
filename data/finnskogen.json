@@ -24,6 +24,7 @@
     "name": "Café Finnskogen",
     "categories": ["resturant"],
     "phone": "95850122",
-    "for_children": true
+    "for_children": true,
+    "id": "finnskogcafe"
   }
 }

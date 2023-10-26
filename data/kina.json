@@ -211,6 +211,7 @@
     "name": "Bejing Garden",
     "categories": ["resturant", "takeaway"],
     "phone": "62953800",
-    "for_children": true
+    "for_children": true,
+    "id": "bejing"
   }
 }

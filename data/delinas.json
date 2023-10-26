@@ -33,6 +33,7 @@
     "name": "Delinas Café",
     "categories": ["resturant"],
     "phone": "62950022",
-    "for_children": true
+    "for_children": true,
+    "id": "delinas"
   }
 }
